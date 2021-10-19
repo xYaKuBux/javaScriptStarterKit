@@ -19,3 +19,27 @@ console.log("</ul>")
 </ul> */}
 
 console.log(konutKredileri)
+
+{/* <ul>
+    <li>2</li>
+    <li>3</li>
+    <li>4</li>
+</ul> */}
+
+console.log(konutKredileri)
+
+{/* <ul>
+    <li>2</li>
+    <li>3</li>
+    <li>4</li>
+</ul> */}
+
+console.log(konutKredileri)
+
+{/* <ul>
+    <li>2</li>
+    <li>3</li>
+    <li>4</li>
+</ul> */}
+
+console.log(konutKredileri)
